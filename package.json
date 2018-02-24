@@ -1,0 +1,24 @@
+{
+  "name": "tdd-course-javascript",
+  "version": "1.0.0",
+  "description": "Curso TDD com JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lipemenezes/tdd-javascript.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "course"
+  ],
+  "author": "Felipe Menezes <lipe.menezes@live.com> (https://www.github.com/lipemenezes)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lipemenezes/tdd-javascript/issues"
+  },
+  "homepage": "https://github.com/Lipemenezes/tdd-javascript#readme"
+}
